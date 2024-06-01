@@ -1,0 +1,6 @@
+
+VIDEO YOUTUBE
+https://youtu.be/bM6fEI3nfIw
+
+
+Buenas tardes profesor, mi nombre es Estrella Garcia. Le presento mi tarea que es el enmaquetado de figma a Angular. Primero creamos el proyecto que en mi caso le puse de nombre figma-angular. Esperamos a que cargue despues entramo al Visual Studio Code entramos al app.componets.css, borramos y cambiamos los codigos yo propuse los codigos 'container', tambien puse 'display: grid' para crear una cuadricula, con sus pixeles. en esto esta 'box' que define el tamaño de cada cuadro para que ocupe todo el espacio disponible dentro de la celda de la cuadricula. Lo demas son para establecer los colores de fondo para los cuadros. Despues nos dirigimos al app.componets.html, aqui cambiamos los codigos por 'container' lo cual es para agrupar los cuadros y tambien esta 'box' con cada color que representa lo cuadros de difirentes colores con el orden en que se quiere. Despues entramos a la pagina de angular para comprobar los codigos expuestos anteriormente. A mi me salio de este modo. Eso es todo de mi parte muchas gracias profesor.  
